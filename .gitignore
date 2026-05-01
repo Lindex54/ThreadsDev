@@ -1,0 +1,10 @@
+myenv/
+__pycache__/
+*.py[cod]
+db.sqlite3
+staticfiles/
+.env
+
+data_structure_exercise
+data_structure.py
+data_structures.py
